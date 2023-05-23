@@ -7,6 +7,8 @@ Desafios de Front End
 
 ![](./images/screenshoot-QR-code-component.jpg)
 
+### Visita el sitio en  https://valentina-assef.github.io/Challenge-qr-code/
+
 Se requeria realizar una copia exacta de un codigo QR.
 Se utilizo para su resolucion HTML, CSS y Flexbox.
 
@@ -15,7 +17,3 @@ Se utilizo para su resolucion HTML, CSS y Flexbox.
 - HTML5
 - CSS
 - Flexbox
-
-## Author
-
-- Coded by Valentina Assef
